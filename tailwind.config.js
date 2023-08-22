@@ -9,6 +9,10 @@ module.exports = {
   ],
   theme: {
     extend: {
+      colors:{
+            navcolor: '#c3d6d7',
+            textcolor: '#1c3938',
+      },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':
