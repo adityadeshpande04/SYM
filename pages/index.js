@@ -4,8 +4,8 @@ const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
   return (
-    <div className='absolute md:w-screen w-max'>
-      <Navbar />
+    <div>
+      
     </div>
   )
 }
